@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0803a088-0027-49de-bb9f-fb347418e823" name="Changes" comment="Creando el esquelto de las clases Conjunto y TestConjunto" />
+    <list default="true" id="0803a088-0027-49de-bb9f-fb347418e823" name="Changes" comment="Caso 1: Calcular promedio con conjunto vacío (Verde)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestConjunto.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -106,12 +107,30 @@
       <option name="project" value="LOCAL" />
       <updated>1729021044888</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Caso 1: Calcular promedio con conjunto vacío (Rojo)">
+      <option name="closed" value="true" />
+      <created>1729021384529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021384529</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Caso 1: Calcular promedio con conjunto vacío (Verde)">
+      <option name="closed" value="true" />
+      <created>1729021471422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729021471422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creando el esquelto de las clases Conjunto y TestConjunto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando el esquelto de las clases Conjunto y TestConjunto" />
+    <MESSAGE value="Caso 1: Calcular promedio con conjunto vacío (Rojo)" />
+    <MESSAGE value="Caso 1: Calcular promedio con conjunto vacío (Verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: Calcular promedio con conjunto vacío (Verde)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
